@@ -2,7 +2,7 @@
 
 一个二次开发的Uptime Status美化版本
 
-根据[solstice](https://status.solstice23.top/)大佬的页面摸出来的
+根据[solstice23](https://status.solstice23.top/)大佬的页面摸出来的
 
 [效果预览](https://status.zzzhxxx.top/)
 
@@ -19,6 +19,6 @@
 
 [仓库地址](https://github.com/yb/uptime-status)
  
-[solstice](https://solstice23.top/)的页面原型
+[solstice23](https://solstice23.top/)的页面原型
 
 背景图来自[香风智乃官方认证老公](https://t.bilibili.com/525357646573634221?tab=2)修的22/7计算中season2 BD全卷购买特典box插图
